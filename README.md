@@ -10,3 +10,10 @@ To understand better how to TDD with React I went through the following tutorial
  $ npm install
  $ npm start
  ```
+ To run tests:
+ ```
+ npm test
+ ```
+
+ Technologies Used:
+ * React, Sinon docs, Enzyme docs, and Chai docs.
